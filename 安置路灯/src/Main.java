@@ -16,13 +16,17 @@ public class Main {
             int roadLength=sc.nextInt();
             sc.nextLine();
             String[] quesArr=sc.nextLine().split("");
-            System.out.println(1);
+            int ans = 0;
+            int tmp = 0;
+            for (int j = 0; j < roadLength; j++) {
+                if (quesArr[j].equals(".")) {
+                    ans++;
+                    j += 2;
+                }
+            }
+            System.out.println(ans);
         }
 
-        int a=-3;
-        String ques="01111111111111111111111111111111";
-        int b=Integer.valueOf(ques,2);
-        System.out.println(1);
 
     }
 }

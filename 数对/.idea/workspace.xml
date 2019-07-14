@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dae21d4-5e74-4b3c-a1d8-960a2033d8f8" name="Default Changelist" comment="">
+    <list default="true" id="1110429d-8a9b-4c5b-a3c1-e6a3c171cd9e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../安置路灯/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../安置路灯/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../安置路灯/out/production/安置路灯/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../安置路灯/out/production/安置路灯/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../安置路灯/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../安置路灯/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../扑克牌大小/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../扑克牌大小/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../牛牛找工作/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../牛牛找工作/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,37 +16,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1117465252">
+    <session id="-1966957289">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
           <entry key="java" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="961" />
+          <entry key="java" value="414" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="961" />
+          <entry key="JAVA" value="414" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
+            <state relative-caret-position="320">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,15 +64,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/牛牛找工作.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="15" />
+            <state relative-caret-position="28">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -103,11 +98,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1400" />
-    <option name="height" value="865" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1120" />
+    <option name="height" value="694" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -115,31 +108,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="牛牛找工作" type="b2602c69:ProjectViewProjectNode" />
-              <item name="牛牛找工作" type="462c0819:PsiDirectoryNode" />
+              <item name="数对" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数对" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="牛牛找工作" type="b2602c69:ProjectViewProjectNode" />
-              <item name="牛牛找工作" type="462c0819:PsiDirectoryNode" />
+              <item name="数对" type="b2602c69:ProjectViewProjectNode" />
+              <item name="数对" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562996020577" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../扑克牌大小" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563071710146" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -158,7 +150,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="牛牛找工作" />
+      <module name="数对" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -174,27 +166,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9dae21d4-5e74-4b3c-a1d8-960a2033d8f8" name="Default Changelist" comment="" />
-      <created>1562982757739</created>
+      <changelist id="1110429d-8a9b-4c5b-a3c1-e6a3c171cd9e" name="Default Changelist" comment="" />
+      <created>1563069505823</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562982757739</updated>
-      <workItem from="1562982760989" duration="5450000" />
+      <updated>1563069505823</updated>
+      <workItem from="1563069508001" duration="2436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5450000" />
+    <option name="totallyTimeSpent" value="2436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14008042" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -203,8 +196,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329429" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -226,20 +219,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/牛牛找工作.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="15" />
+        <state relative-caret-position="28">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="12" selection-end-column="42" />
+        <state relative-caret-position="320">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
