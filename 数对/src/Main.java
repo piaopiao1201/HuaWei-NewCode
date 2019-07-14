@@ -28,7 +28,12 @@ public class Main {
                 sum+=n-m;
             }
 
-            //2、当i>j时
+             /*
+                2、当i>j时 m应从k+1开始，因为模要大于k才有可能取到大于等于k的余
+                    1*m+k~2*m
+                    2*m+k~3*m
+                    ...
+            */
             for(int m=k+1;m<=n-k;m++){
                 int start=1;
                 while(start*m+k<=n){
